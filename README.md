@@ -8,7 +8,7 @@ The core philosophy behind Version 1 was **maximum cost-efficiency without sacri
 
 ## 📸 Media & Gallery
 *Check out the repository folders above to see photos of the real full-scale Lotus 7 built with my father, as well as the FE/multibody simulation files used to study the chassis rigidity!*
-
+<img src="./Gallery/Picture1.jpg" width="600px">
 ---
 
 ## 🛠️ Project Highlights & Engineering Decisions
