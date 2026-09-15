@@ -12,7 +12,13 @@ The core philosophy behind Version 1 was **maximum cost-efficiency without sacri
 <img src="./Gallery/Picture1.jpg" width="300px">  <img src="./Gallery/ls7_trailer.jpg" width="300px">
 
 *Check out the first prototype testing* 
-<video src="path/to/your/desk_testing(1).mp4" controls="controls" width="100%"></video> <video src="path/to/your/garage_testing(4).mp4" controls="controls" width="100%"></video>
+
+<video src="https://raw.githubusercontent.com/TonyMrg/3D_printed_Lotus7_RC/main/Gallery/desk_testing(1).mp4" controls="controls" width="100%">
+</video>
+
+<video src="https://raw.githubusercontent.com/TonyMrg/3D_printed_Lotus7_RC/main/Gallery/garage_testing(4).mp4" controls="controls" width="100%">
+</video>
+
 ---
 
 ## 🛠️ Project Highlights & Engineering Decisions
