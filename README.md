@@ -8,8 +8,8 @@ The core philosophy behind Version 1 was **maximum cost-efficiency without sacri
 
 ## 📸 Media & Gallery
 *Check out the repository folders above to see photos of the real full-scale Lotus 7 built with my father, as well as the FE/multibody simulation files used to study the chassis rigidity!*
-<img src="./Gallery/Picture1.jpg" width="600px">
-<img src="./Gallery/rendered_cad_2.jpg" width="600px">
+<img src="./Gallery/Picture1.jpg" width="300px"> <img src="./Gallery/rendered_cad_2.jpg" width="300px">
+
 ---
 
 ## 🛠️ Project Highlights & Engineering Decisions
@@ -22,18 +22,16 @@ The core philosophy behind Version 1 was **maximum cost-efficiency without sacri
 
 ## 🚀 Status: Upcoming Releases
 
-This project is actively being documented. I will soon be uploading:
+This project is ongoing and actively being documented. I will soon be uploading:
 
 - [ ] **CAD Files:** Full `.STEP` and `.STL` files for the 3D-printed chassis, custom battery holder, and body panels.
-- [ ] **Firmware:** The complete ESP32 transmitter and receiver source code (C++/Arduino IDE) utilizing ESP-NOW.
+- [ ] **Firmware:** The complete ESP32 transmitter and receiver source code utilizing ESP-NOW.
 - [ ] **BOM (Bill of Materials):** A checklist of the cheap electronics and hardware components used.
 
-**Stay tuned! Star the repository to get notified when the source files drop.** 🌟
 
 ---
 
 ## 🔮 Future Roadmap (V2)
 - [ ] Implement full spring suspension geometry.
 - [ ] Optimize the remote by housing a permanent 18650 cell inside with an integrated TP4056 charging circuit.
-- [ ] Iterate the chassis design based on insights gained from the multibody simulation.
 
