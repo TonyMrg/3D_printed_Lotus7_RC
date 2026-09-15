@@ -17,6 +17,8 @@ https://github.com/user-attachments/assets/7054737f-a998-4a1e-9903-1eab283f4eee
 
 https://github.com/user-attachments/assets/3684efd3-b2e0-4a42-b81b-b65c573a2b25
 
+<img src="./Gallery/rendered_cad.jpg" width="300px">  <img src="./Gallery/rendered_cad2.jpg" width="300px">
+
 ---
 
 ## 🛠️ Project Highlights & Engineering Decisions
