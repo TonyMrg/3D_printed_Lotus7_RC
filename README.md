@@ -13,11 +13,9 @@ The core philosophy behind Version 1 was **maximum cost-efficiency without sacri
 
 *Check out the first prototype testing* 
 
-<video src="https://raw.githubusercontent.com/TonyMrg/3D_printed_Lotus7_RC/main/Gallery/desk_testing(1).mp4" controls="controls" width="100%">
-</video>
+https://github.com/user-attachments/assets/7054737f-a998-4a1e-9903-1eab283f4eee
 
-<video src="https://raw.githubusercontent.com/TonyMrg/3D_printed_Lotus7_RC/main/Gallery/garage_testing(4).mp4" controls="controls" width="100%">
-</video>
+https://github.com/user-attachments/assets/3684efd3-b2e0-4a42-b81b-b65c573a2b25
 
 ---
 
