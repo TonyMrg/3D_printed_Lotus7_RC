@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/7054737f-a998-4a1e-9903-1eab283f4eee
 
 https://github.com/user-attachments/assets/3684efd3-b2e0-4a42-b81b-b65c573a2b25
 
-<img src="./Gallery/rendered_cad.jpg" width="500px">  <img src="./Gallery/rendered_cad_2.jpg" width="500px">
+<img src="./Gallery/Lotus7_asmbl.png" width="500px">  <img src="./Lotus7_asmbl_2.png" width="500px">
 
 ---
 
